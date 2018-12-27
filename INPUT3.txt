@@ -1,0 +1,25 @@
+4
+Cau hoi 1: Ban co biet Thanh?
+A:Ko
+B:Co
+C:Ko quan tam
+D:Khac
+C
+Cau hoi 2: Ban co biet TThao?
+A:Ko
+B:Co
+C:Ko quan tam
+D:Khac
+A
+Cau hoi 3: Ban co biet DThao?
+A:Ko
+B:Co
+C:Ko quan tam
+D:Khac
+B
+Cau hoi 4: Ban co biet toi?
+A:Ko
+B:Co
+C:Ko quan tam
+D:Khac
+B
